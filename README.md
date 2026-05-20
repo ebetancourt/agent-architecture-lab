@@ -44,7 +44,7 @@ This repository primarily explores:
 
 ## Current Exploration Tracks
 
-These tracks are active areas of investigation. They may split, merge, or change order as the lab uncovers better questions.
+These tracks are provisional areas of investigation. They may split, merge, or change order as discoveries emerge.
 
 ### Agent Loops
 
@@ -94,11 +94,13 @@ This repository is an exploratory engineering notebook, not a fixed syllabus.
 
 The structure is meant to follow the work: questions lead to investigations, investigations lead to experiments, and experiments feed back into system notes, diagrams, and project decisions.
 
-Tracks represent current research threads. They are expected to evolve as new systems, architecture patterns, and failure modes become worth studying.
+Tracks represent current research threads. They are provisional and expected to evolve as new systems, architecture patterns, and failure modes become worth studying.
 
 ## Repository Map
 
 - [ROADMAP.md](ROADMAP.md): current research direction and candidate milestones.
+- [BACKLOG.md](BACKLOG.md): future investigation ideas.
+- [LEARNING_LOOP.md](LEARNING_LOOP.md): weekly operating cadence.
 - [tracks](tracks): active exploration tracks.
 - [resources.md](resources.md): selected references as they become useful.
 - [glossary.md](glossary.md): concise concept definitions.
