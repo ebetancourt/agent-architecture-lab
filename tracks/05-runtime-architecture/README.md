@@ -1,4 +1,4 @@
-# Week 5: Runtime Architecture
+# Runtime Architecture
 
 ## Focus
 
@@ -10,10 +10,17 @@ Study the runtime environments that support agentic coding systems.
 - Compare local and remote execution patterns.
 - Draft an architecture review template.
 
-## Daily Plan
+## Investigations
 
-- Monday: Runtime boundaries.
-- Tuesday: Workspaces and sandboxes.
-- Wednesday: Orchestration.
-- Thursday: Observability.
-- Friday: Weekly synthesis.
+- [Runtime boundaries](investigations/runtime-boundaries.md)
+- [Workspaces and sandboxes](investigations/workspaces-and-sandboxes.md)
+- [Orchestration](investigations/orchestration.md)
+- [Observability](investigations/observability.md)
+
+## Experiments
+
+- [Architecture review draft](experiments/architecture-review-draft.md)
+
+## Notes
+
+- [Track notes](notes.md)

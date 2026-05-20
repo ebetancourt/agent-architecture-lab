@@ -1,4 +1,4 @@
-# Week 4: Tool Use
+# Tool Use and Execution
 
 ## Focus
 
@@ -10,10 +10,17 @@ Study how agents call tools, inspect results, and recover from failures.
 - Review execution and validation patterns.
 - Map common tool failure modes.
 
-## Daily Plan
+## Investigations
 
-- Monday: Tool contracts.
-- Tuesday: Shell and file tools.
-- Wednesday: Browser and API tools.
-- Thursday: Error handling.
-- Friday: Weekly synthesis.
+- [Tool contracts](investigations/tool-contracts.md)
+- [Shell and filesystem tools](investigations/shell-and-filesystem-tools.md)
+- [Browser and API tools](investigations/browser-and-api-tools.md)
+- [Error handling](investigations/error-handling.md)
+
+## Experiments
+
+- [Tool use principles](experiments/tool-use-principles.md)
+
+## Notes
+
+- [Track notes](notes.md)

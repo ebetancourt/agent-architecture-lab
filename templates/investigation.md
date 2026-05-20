@@ -1,26 +1,22 @@
-# Architecture Review
+# Investigation
 
-## System
-
-Placeholder.
-
-## Review Goal
+## Purpose
 
 Placeholder.
 
-## Components
+## Scope
 
 - Placeholder.
 
-## Data Flow
+## Questions
 
 - Placeholder.
 
-## Strengths
+## Materials
 
 - Placeholder.
 
-## Risks
+## Findings
 
 - Placeholder.
 
@@ -30,4 +26,4 @@ Placeholder.
 
 ## Follow-Ups
 
-- Placeholder.
+- [ ] Placeholder.

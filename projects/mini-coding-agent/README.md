@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Placeholder project for applying curriculum concepts to a small coding-agent harness.
+Placeholder project for applying lab findings to a small coding-agent harness.
 
 ## Scope
 

@@ -1,4 +1,4 @@
-# Week 1: Agent Loops
+# Agent Loops
 
 ## Focus
 
@@ -10,10 +10,17 @@ Understand the basic loop structures used by coding agents.
 - Compare simple and reflective loops.
 - Identify where tools, memory, and context enter the loop.
 
-## Daily Plan
+## Investigations
 
-- Monday: Loop vocabulary.
-- Tuesday: Observation and state.
-- Wednesday: Planning and action selection.
-- Thursday: Evaluation and recovery.
-- Friday: Weekly synthesis.
+- [Loop vocabulary](investigations/loop-vocabulary.md)
+- [Observation and state](investigations/observation-and-state.md)
+- [Planning and action selection](investigations/planning-and-action-selection.md)
+- [Evaluation and recovery](investigations/evaluation-and-recovery.md)
+
+## Experiments
+
+- [Loop model comparison](experiments/loop-model-comparison.md)
+
+## Notes
+
+- [Track notes](notes.md)

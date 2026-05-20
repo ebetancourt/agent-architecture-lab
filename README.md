@@ -1,72 +1,110 @@
 # agent-architecture-lab
 
-This is my personal "lab notebook" for exploring agentic architectures, coding harnesses, runtime architecture, and developer-facing agent systems.
+A public lab notebook for exploring agent systems, coding agents, runtime architecture, context engineering, and human-agent interaction.
 
-## Dashboard
+This repository contains:
+- architecture notes
+- reverse engineering studies
+- runtime experiments
+- small agent implementations
+- diagrams and traces
+- research notes and learning artifacts
 
-Use this checklist as the main progress tracker. Each day links to a concise note template with objectives, materials, tasks, questions, deliverable, and notes.
+## Why This Repository Exists
 
-### Week 1: Agent Loops
+Most AI agent content online focuses on frameworks and demos.
 
-- [ ] [Week README](weeks/week-01-agent-loops/README.md)
-- [ ] [Monday](weeks/week-01-agent-loops/monday.md)
-- [ ] [Tuesday](weeks/week-01-agent-loops/tuesday.md)
-- [ ] [Wednesday](weeks/week-01-agent-loops/wednesday.md)
-- [ ] [Thursday](weeks/week-01-agent-loops/thursday.md)
-- [ ] [Friday](weeks/week-01-agent-loops/friday.md)
+This repository focuses on understanding the underlying architectural primitives:
+- loops
+- context assembly
+- memory
+- orchestration
+- runtime systems
+- tool execution
+- agent UX
+- cognitive scaffolding
 
-### Week 2: Context Engineering
+The emphasis is on systems thinking rather than framework-specific tutorials.
 
-- [ ] [Week README](weeks/week-02-context-engineering/README.md)
-- [ ] [Monday](weeks/week-02-context-engineering/monday.md)
-- [ ] [Tuesday](weeks/week-02-context-engineering/tuesday.md)
-- [ ] [Wednesday](weeks/week-02-context-engineering/wednesday.md)
-- [ ] [Thursday](weeks/week-02-context-engineering/thursday.md)
-- [ ] [Friday](weeks/week-02-context-engineering/friday.md)
+## Architectural Themes
 
-### Week 3: Memory and State
+This repository primarily explores:
 
-- [ ] [Week README](weeks/week-03-memory-and-state/README.md)
-- [ ] [Monday](weeks/week-03-memory-and-state/monday.md)
-- [ ] [Tuesday](weeks/week-03-memory-and-state/tuesday.md)
-- [ ] [Wednesday](weeks/week-03-memory-and-state/wednesday.md)
-- [ ] [Thursday](weeks/week-03-memory-and-state/thursday.md)
-- [ ] [Friday](weeks/week-03-memory-and-state/friday.md)
+- coding agent architecture
+- context engineering
+- memory systems
+- orchestration loops
+- runtime design
+- agent tooling
+- human-agent interaction
+- execution environments
+- multi-agent coordination
+- cognitive architectures
 
-### Week 4: Tool Use
 
-- [ ] [Week README](weeks/week-04-tool-use/README.md)
-- [ ] [Monday](weeks/week-04-tool-use/monday.md)
-- [ ] [Tuesday](weeks/week-04-tool-use/tuesday.md)
-- [ ] [Wednesday](weeks/week-04-tool-use/wednesday.md)
-- [ ] [Thursday](weeks/week-04-tool-use/thursday.md)
-- [ ] [Friday](weeks/week-04-tool-use/friday.md)
+## Current Exploration Tracks
 
-### Week 5: Runtime Architecture
+These tracks are active areas of investigation. They may split, merge, or change order as the lab uncovers better questions.
 
-- [ ] [Week README](weeks/week-05-runtime-architecture/README.md)
-- [ ] [Monday](weeks/week-05-runtime-architecture/monday.md)
-- [ ] [Tuesday](weeks/week-05-runtime-architecture/tuesday.md)
-- [ ] [Wednesday](weeks/week-05-runtime-architecture/wednesday.md)
-- [ ] [Thursday](weeks/week-05-runtime-architecture/thursday.md)
-- [ ] [Friday](weeks/week-05-runtime-architecture/friday.md)
+### Agent Loops
 
-### Week 6: Pi Deep Dive
+- [Track overview](tracks/01-agent-loops/README.md)
+- [Investigations](tracks/01-agent-loops/investigations)
+- [Experiments](tracks/01-agent-loops/experiments)
+- [Notes](tracks/01-agent-loops/notes.md)
 
-- [ ] [Week README](weeks/week-06-pi-deep-dive/README.md)
-- [ ] [Monday](weeks/week-06-pi-deep-dive/monday.md)
-- [ ] [Tuesday](weeks/week-06-pi-deep-dive/tuesday.md)
-- [ ] [Wednesday](weeks/week-06-pi-deep-dive/wednesday.md)
-- [ ] [Thursday](weeks/week-06-pi-deep-dive/thursday.md)
-- [ ] [Friday](weeks/week-06-pi-deep-dive/friday.md)
+### Context Engineering
+
+- [Track overview](tracks/02-context-engineering/README.md)
+- [Investigations](tracks/02-context-engineering/investigations)
+- [Experiments](tracks/02-context-engineering/experiments)
+- [Notes](tracks/02-context-engineering/notes.md)
+
+### Memory and State
+
+- [Track overview](tracks/03-memory-and-state/README.md)
+- [Investigations](tracks/03-memory-and-state/investigations)
+- [Experiments](tracks/03-memory-and-state/experiments)
+- [Notes](tracks/03-memory-and-state/notes.md)
+
+### Tool Use and Execution
+
+- [Track overview](tracks/04-tool-use-and-execution/README.md)
+- [Investigations](tracks/04-tool-use-and-execution/investigations)
+- [Experiments](tracks/04-tool-use-and-execution/experiments)
+- [Notes](tracks/04-tool-use-and-execution/notes.md)
+
+### Runtime Architecture
+
+- [Track overview](tracks/05-runtime-architecture/README.md)
+- [Investigations](tracks/05-runtime-architecture/investigations)
+- [Experiments](tracks/05-runtime-architecture/experiments)
+- [Notes](tracks/05-runtime-architecture/notes.md)
+
+### Pi Deep Dive
+
+- [Track overview](tracks/06-pi-deep-dive/README.md)
+- [Investigations](tracks/06-pi-deep-dive/investigations)
+- [Experiments](tracks/06-pi-deep-dive/experiments)
+- [Notes](tracks/06-pi-deep-dive/notes.md)
+
+## Learning Approach
+
+This repository is an exploratory engineering notebook, not a fixed syllabus.
+
+The structure is meant to follow the work: questions lead to investigations, investigations lead to experiments, and experiments feed back into system notes, diagrams, and project decisions.
+
+Tracks represent current research threads. They are expected to evolve as new systems, architecture patterns, and failure modes become worth studying.
 
 ## Repository Map
 
-- [ROADMAP.md](ROADMAP.md): Learning roadmap and progress tracker.
-- [resources.md](resources.md): placeholder links for articles, talks, repos, docs, and papers.
+- [ROADMAP.md](ROADMAP.md): current research direction and candidate milestones.
+- [tracks](tracks): active exploration tracks.
+- [resources.md](resources.md): selected references as they become useful.
 - [glossary.md](glossary.md): concise concept definitions.
-- [projects/mini-coding-agent](projects/mini-coding-agent/README.md): capstone-style project notes.
+- [projects/mini-coding-agent](projects/mini-coding-agent/README.md): project notes for a small coding-agent harness.
 - [systems](systems): system-specific notes.
 - [concepts](concepts): topic-specific concept notes.
+- [journal](journal): chronological lab notes.
 - [diagrams](diagrams): architecture and flow diagrams.
 - [templates](templates): reusable note and review templates.

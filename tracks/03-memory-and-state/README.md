@@ -1,4 +1,4 @@
-# Week 3: Memory and State
+# Memory and State
 
 ## Focus
 
@@ -10,10 +10,17 @@ Study how agent systems track state across turns, tasks, and projects.
 - Compare short-term and long-term memory.
 - Identify risks in stale or incorrect state.
 
-## Daily Plan
+## Investigations
 
-- Monday: Memory types.
-- Tuesday: State representation.
-- Wednesday: Persistence and retrieval.
-- Thursday: Failure modes.
-- Friday: Weekly synthesis.
+- [Memory types](investigations/memory-types.md)
+- [State representation](investigations/state-representation.md)
+- [Persistence and retrieval](investigations/persistence-and-retrieval.md)
+- [Failure modes](investigations/failure-modes.md)
+
+## Experiments
+
+- [Memory design sketch](experiments/memory-design-sketch.md)
+
+## Notes
+
+- [Track notes](notes.md)

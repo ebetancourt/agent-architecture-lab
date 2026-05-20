@@ -1,4 +1,4 @@
-# Week 6: Pi Deep Dive
+# Pi Deep Dive
 
 ## Focus
 
@@ -10,10 +10,17 @@ Study Pi-style agent runtime and harness design in depth.
 - Trace representative workflows.
 - Identify architecture tradeoffs and open questions.
 
-## Daily Plan
+## Investigations
 
-- Monday: System overview.
-- Tuesday: Runtime trace.
-- Wednesday: Context and tools.
-- Thursday: UX and controls.
-- Friday: Deep-dive synthesis.
+- [System overview](investigations/system-overview.md)
+- [Context and tools](investigations/context-and-tools.md)
+- [UX and controls](investigations/ux-and-controls.md)
+
+## Experiments
+
+- [Runtime trace](experiments/runtime-trace.md)
+- [Architecture takeaways](experiments/architecture-takeaways.md)
+
+## Notes
+
+- [Track notes](notes.md)

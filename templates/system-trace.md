@@ -12,6 +12,14 @@ Placeholder.
 
 1. Placeholder.
 
+## State Changes
+
+- Placeholder.
+
+## Tool or Runtime Boundaries
+
+- Placeholder.
+
 ## Observations
 
 - Placeholder.
