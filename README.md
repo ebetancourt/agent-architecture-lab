@@ -98,7 +98,6 @@ Tracks represent current research threads. They are provisional and expected to 
 
 ## Repository Map
 
-- [ROADMAP.md](ROADMAP.md): current research direction and candidate milestones.
 - [BACKLOG.md](BACKLOG.md): future investigation ideas.
 - [LEARNING_LOOP.md](LEARNING_LOOP.md): weekly operating cadence.
 - [tracks](tracks): active exploration tracks.

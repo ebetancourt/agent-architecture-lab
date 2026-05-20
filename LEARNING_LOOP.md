@@ -10,6 +10,8 @@ This lab uses a weekly operating cadence to keep exploration structured without 
 4. Turn promising findings into small experiments or architecture reviews.
 5. End the week by updating open questions, follow-ups, and backlog items.
 
+Tracks can change when investigations produce better questions.
+
 ## Outputs
 
 - Investigation notes
