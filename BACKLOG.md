@@ -15,7 +15,7 @@ Future investigation ideas for the agent architecture lab.
 - Define evaluation traces, rubrics, and regression checks for agent workflows.
 - Review security and trust boundaries around permissions, secrets, sandboxing, and auditability.
 
-## Candidate Milestones
+## Candidate Artifacts
 
 - First architecture comparison notes.
 - Pi deep-dive trace set.
