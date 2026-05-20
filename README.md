@@ -1,6 +1,6 @@
-# agentic-harness-curriculum
+# agent-architecture-lab
 
-A markdown-first personal curriculum for studying agentic coding harnesses, runtime architecture, and developer-facing agent systems.
+This is my personal "lab notebook" for exploring agentic architectures, coding harnesses, runtime architecture, and developer-facing agent systems.
 
 ## Dashboard
 
@@ -62,7 +62,7 @@ Use this checklist as the main progress tracker. Each day links to a concise not
 
 ## Repository Map
 
-- [ROADMAP.md](ROADMAP.md): 12-month progression.
+- [ROADMAP.md](ROADMAP.md): Learning roadmap and progress tracker.
 - [resources.md](resources.md): placeholder links for articles, talks, repos, docs, and papers.
 - [glossary.md](glossary.md): concise concept definitions.
 - [projects/mini-coding-agent](projects/mini-coding-agent/README.md): capstone-style project notes.
