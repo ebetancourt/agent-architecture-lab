@@ -2,24 +2,27 @@
 
 ## Focus
 
-Study how agent systems select and shape working context.
+Study how agent systems select, order, compress, and refresh working context.
 
-## Outcomes
+This track is intentionally sparse for now. It exists to capture likely follow-on questions from the agent-loop work, especially where loop behavior depends on what the model can see.
 
-- Identify context sources.
-- Compare retrieval, compression, and prioritization patterns.
-- Draft a context strategy for a small harness.
+## Current Questions
+
+- How does repository mapping change planning quality?
+- Which instruction layers should be explicit in traces?
+- When is retrieval better than summarization?
+- What should happen when the token budget forces lossy choices?
 
 ## Investigations
 
-- [Context inventory](investigations/context-inventory.md)
-- [Prompt and instruction layering](investigations/instruction-layering.md)
-- [File and repository context](investigations/repository-context.md)
-- [Compression and summaries](investigations/compression-and-summaries.md)
+- [Repo mapping](investigations/repo-mapping.md)
+- [Prompt layering](investigations/prompt-layering.md)
+- [Retrieval vs summarization](investigations/retrieval-vs-summarization.md)
+- [Token budgeting](investigations/token-budgeting.md)
 
 ## Experiments
 
-- [Context strategy draft](experiments/context-strategy-draft.md)
+Not expanded yet.
 
 ## Notes
 

@@ -2,8 +2,11 @@
 
 ## Overview
 
-Placeholder notes for studying LangGraph.
+LangGraph is useful as a graph-oriented reference for explicit state machines, durable execution, and controlled agent workflows.
 
-## Questions
+## Architecture Angles
 
-- Placeholder.
+- State graph representation.
+- Explicit node and edge control.
+- Checkpointing and persistence.
+- Comparison with free-running coding-agent loops.

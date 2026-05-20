@@ -57,7 +57,6 @@ These tracks are provisional areas of investigation. They may split, merge, or c
 
 - [Track overview](tracks/02-context-engineering/README.md)
 - [Investigations](tracks/02-context-engineering/investigations)
-- [Experiments](tracks/02-context-engineering/experiments)
 - [Notes](tracks/02-context-engineering/notes.md)
 
 ### Memory and State

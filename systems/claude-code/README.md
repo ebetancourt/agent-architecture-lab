@@ -2,8 +2,15 @@
 
 ## Overview
 
-Placeholder notes for studying Claude Code.
+Claude Code is a coding-agent system useful for studying developer workflow integration, instruction files, tool permissions, and long-running task control.
 
-## Questions
+## Architecture Angles
 
-- Placeholder.
+- Project instruction loading.
+- Tool permission and approval behavior.
+- Terminal and hosted runtime modes.
+- Human review and steering surfaces.
+
+## Related Resources
+
+- [Claude Code docs](https://code.claude.com/docs)
